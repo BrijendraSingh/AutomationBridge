@@ -1,0 +1,87 @@
+
+Time: Tue May 17 23:36:13 IST 2016
+[STEP:] Config & Log file   ,[DETAIL:] Setup   ,[STATUS:] Completed
+
+Time: Tue May 17 23:36:13 IST 2016
+[STEP:] Extent Reporter   ,[DETAIL:] Initialization   ,[STATUS:] Done
+
+Time: Tue May 17 23:36:13 IST 2016
+[STEP:] Config file setup   ,[DETAIL:]    ,[STATUS:] Done
+
+Time: Tue May 17 23:36:15 IST 2016
+[STEP:] Excel Files   ,[DETAIL:]    ,[STATUS:] Connected
+
+Time: Tue May 17 23:36:15 IST 2016
+[STEP:] Connected Module   ,[DETAIL:] Mod_03   ,[STATUS:] In Execution
+
+Time: Tue May 17 23:36:15 IST 2016
+[STEP:] Connected TestCaase   ,[DETAIL:] Mod_03_TC_10   ,[STATUS:] In Execution
+
+Time: Tue May 17 23:36:15 IST 2016
+[STEP:] Keyword   ,[DETAIL:] LaunchBrowser   ,[STATUS:] In Execution
+
+Time: Tue May 17 23:36:25 IST 2016
+[STEP:] firefox Browser launched   ,[DETAIL:]    ,[STATUS:] 
+
+Time: Tue May 17 23:36:25 IST 2016
+[STEP:] Keyword   ,[DETAIL:] LaunchBrowser   ,[STATUS:] Execution OUT
+
+Time: Tue May 17 23:36:25 IST 2016
+[STEP:] Keyword   ,[DETAIL:] LaunchApp   ,[STATUS:] In Execution
+
+Time: Tue May 17 23:36:27 IST 2016
+[STEP:] Keyword   ,[DETAIL:] LaunchApp   ,[STATUS:] Execution OUT
+
+Time: Tue May 17 23:36:27 IST 2016
+[STEP:] Keyword   ,[DETAIL:] SelectGapp   ,[STATUS:] In Execution
+
+Time: Tue May 17 23:36:37 IST 2016
+[STEP:] Keyword   ,[DETAIL:] SelectGapp   ,[STATUS:] Execution OUT
+
+Time: Tue May 17 23:36:37 IST 2016
+[STEP:] Keyword   ,[DETAIL:] print_news1   ,[STATUS:] In Execution
+
+Time: Tue May 17 23:36:43 IST 2016
+[STEP:] Keyword   ,[DETAIL:] print_news1   ,[STATUS:] Execution OUT
+
+Time: Tue May 17 23:36:43 IST 2016
+[STEP:] Keyword   ,[DETAIL:] SelectGapp   ,[STATUS:] In Execution
+
+Time: Tue May 17 23:36:53 IST 2016
+[STEP:] Keyword   ,[DETAIL:] SelectGapp   ,[STATUS:] Execution OUT
+
+Time: Tue May 17 23:36:53 IST 2016
+[STEP:] Keyword   ,[DETAIL:] SelectGapp   ,[STATUS:] In Execution
+
+Time: Tue May 17 23:37:03 IST 2016
+[STEP:] Keyword   ,[DETAIL:] SelectGapp   ,[STATUS:] Execution OUT
+
+Time: Tue May 17 23:37:03 IST 2016
+[STEP:] Keyword   ,[DETAIL:] print_news   ,[STATUS:] In Execution
+
+Time: Tue May 17 23:37:14 IST 2016
+[STEP:] Keyword   ,[DETAIL:] print_news   ,[STATUS:] Execution OUT
+
+Time: Tue May 17 23:37:14 IST 2016
+[STEP:] Keyword   ,[DETAIL:] SelectGapp   ,[STATUS:] In Execution
+
+Time: Tue May 17 23:37:35 IST 2016
+[STEP:] Keyword   ,[DETAIL:] SelectGapp   ,[STATUS:] Execution OUT
+
+Time: Tue May 17 23:37:35 IST 2016
+[STEP:] Keyword   ,[DETAIL:] Select_Click_gPlaySection   ,[STATUS:] In Execution
+
+Time: Tue May 17 23:37:48 IST 2016
+[STEP:] Keyword   ,[DETAIL:] Select_Click_gPlaySection   ,[STATUS:] Execution OUT
+
+Time: Tue May 17 23:37:48 IST 2016
+[STEP:] Keyword   ,[DETAIL:] QuitApp   ,[STATUS:] In Execution
+
+Time: Tue May 17 23:37:53 IST 2016
+[STEP:] Keyword   ,[DETAIL:] QuitApp   ,[STATUS:] Execution OUT
+
+Time: Tue May 17 23:37:53 IST 2016
+[STEP:] Connected TestCase   ,[DETAIL:] Mod_03_TC_10   ,[STATUS:] Execution OUT
+
+Time: Tue May 17 23:37:54 IST 2016
+[STEP:] Final Result   ,[DETAIL:] TestReport   ,[STATUS:] OPEN UP
