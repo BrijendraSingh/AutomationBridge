@@ -1,0 +1,18 @@
+RunManagerFile=RunManager
+TestDataFile=TestData
+MainSheet=Main
+Firfox_Profile=SeleniumTest
+
+ScreenShot_CaptureFAIL=True
+ScreenShot_CapturePASS= True
+
+Selenium Version=2.53.0
+Environment=Test
+
+LogFile_Name =LogFile
+
+CommonnDataSheet_Name=CommonData
+CommonDataIdentifier=#
+
+TerminateTC=NO
+
